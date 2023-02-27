@@ -10,7 +10,7 @@ Once the phone number receives a message (anything excluding messages starting w
 
 It is then up to the user to decide whether or not they want to contact the number. 
 
-Here is a video that shows how the messaging service works:
+Here is a demo video that shows how the messaging service works:
 
 
 https://user-images.githubusercontent.com/85198940/221461433-79fdc76c-dd73-4350-88b5-f9eb6f97cf56.mp4
